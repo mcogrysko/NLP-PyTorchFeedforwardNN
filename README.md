@@ -8,3 +8,5 @@ Processing the IMDB movie reviews for sentiment analysis with PyTorch Feedforwar
 - 10-fold classification evaluation function
 - PyTorch feed forward neural network with 1 hidden layer - input and hidden layers with ReLU activation and output with Softmax activation
 - Tune the hyper-parameter eta and plot the performance on various eta values
+
+<i><a href="https://mcogrysko.github.io">Back to portfolio landing page</a></i>
